@@ -1,0 +1,18 @@
+body{
+	font-family: 'Raleway', sans-serif;
+  	background-color: #FFC0CB;
+}
+
+header h1 {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	width: 100%;
+	transform: translateY(-50%);
+	font-size: 8rem;
+	color: #222222;
+	text-align: center;
+	margin-top: 0;
+	text-transform: uppercase;
+	font-weight: 900;
+}
